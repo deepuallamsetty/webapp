@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//:deepuallamsetty.github.io/webapp/static/css/main.6133631f.css",
-    "main.js": "/https//:deepuallamsetty.github.io/webapp/static/js/main.befaec20.js",
-    "static/js/787.994511a4.chunk.js": "/https//:deepuallamsetty.github.io/webapp/static/js/787.994511a4.chunk.js",
-    "index.html": "/https//:deepuallamsetty.github.io/webapp/index.html",
-    "main.6133631f.css.map": "/https//:deepuallamsetty.github.io/webapp/static/css/main.6133631f.css.map",
-    "main.befaec20.js.map": "/https//:deepuallamsetty.github.io/webapp/static/js/main.befaec20.js.map",
-    "787.994511a4.chunk.js.map": "/https//:deepuallamsetty.github.io/webapp/static/js/787.994511a4.chunk.js.map"
+    "main.css": "/webapp/static/css/main.6133631f.css",
+    "main.js": "/webapp/static/js/main.fe5d2a4a.js",
+    "static/js/787.994511a4.chunk.js": "/webapp/static/js/787.994511a4.chunk.js",
+    "index.html": "/webapp/index.html",
+    "main.6133631f.css.map": "/webapp/static/css/main.6133631f.css.map",
+    "main.fe5d2a4a.js.map": "/webapp/static/js/main.fe5d2a4a.js.map",
+    "787.994511a4.chunk.js.map": "/webapp/static/js/787.994511a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6133631f.css",
-    "static/js/main.befaec20.js"
+    "static/js/main.fe5d2a4a.js"
   ]
 }
